@@ -1,4 +1,4 @@
-﻿--Add your Discord Webhook ID below:
+--Add your Discord Webhook ID below:
 local webhookid = "HERE"
 --Disable Discord Tracking below:
 local enable = true
