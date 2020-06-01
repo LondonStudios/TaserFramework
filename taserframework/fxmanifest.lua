@@ -5,6 +5,7 @@ client_script 'Client.net.dll'
 
 server_scripts {
     'Server.net.dll',
+    'transmission.lua'
 }
 
 ui_page 'html/index.html'
