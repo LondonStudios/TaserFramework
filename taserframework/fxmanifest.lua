@@ -4,8 +4,12 @@ game 'gta5'
 client_script 'Client.net.dll'
 
 server_scripts {
-    'transmission.lua',
-    'Server.net.dll'
+    'Server.net.dll',
 }
 
-driveStunKey '38'
+ui_page 'html/index.html'
+
+files {
+    'html/index.html',
+    'html/sounds/*.ogg'
+}
