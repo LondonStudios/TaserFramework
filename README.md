@@ -4,6 +4,8 @@
 # Taser Framework - London Studios
 TaserFramework is a C# FiveM resource providing a host of functions to enhance the reality of the Taser X2 device. Features include custom external sounds, taser interface (CID) notifications, taser cartridge limit, taser reload functionality, taser safety mode, taser arc mode, taser cartridge reactivation, barb removal and distance based "ripping out". This plugin also replicates the Axon Audit trail through Discord integration, logging every usage of the taser.
 
+Latest version: 1.1 - 08/06/2020
+
 Join our Discord [here](https://discord.gg/AtPt9ND).
 Member/Usage Documentation [here](https://bit.ly/2zMsKHY).
 
