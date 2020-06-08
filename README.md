@@ -1,4 +1,5 @@
 
+
 ![enter image description here](https://i.imgur.com/IIyr58s.jpg)
 
 # Taser Framework - London Studios
@@ -24,3 +25,7 @@ Changelog:
     
  6. Finally, you are now setup to start using TaserFramework by London Studios. We have created member documentation for you to share, please provide them the link [here](https://bit.ly/2zMsKHY).
 
+This is how your folder should look:
+![enter image description here](https://i.imgur.com/foCPYd9.png)
+
+If you require any support, join the Discord and request assistance!
