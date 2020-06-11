@@ -14,7 +14,7 @@ Changelog:
 -
 1/06/2020 - Update pushed, increased efficiency, bugs fixed and customisable keybinds! Easy installation and no need to install another sound plugin.
 ## Installation
-1. Firstly, install the **TaserFramework** files as a resource on your server. This comes with an **fxmanifest.lua** setup. If your server has issues with this type of file due to having an outdated CitizenFX server, you'll need a **resource.lua**. Please do not edit the fxmanifest.lua. Next, "ensure" the resource in your server.cfg.
+1. Firstly, install the **TaserFramework** files as a resource on your server. This comes with an **fxmanifest.lua** setup. If your server has issues with this type of file due to having an outdated CitizenFX server, you'll need a **__resource.lua**. Please do not edit the fxmanifest.lua. Next, "ensure" the resource in your server.cfg.
    
 4. Secondly setup a **webhook** on your **Discord server** and select the channel for your CEW-Audit log. Please find a Discord tutorial [here](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) if you require support. We recommend setting your **webhook image** to [this](https://imgur.com/a/KkZZcif).
 5. Next, open **"transmission.lua"** and edit Line 2 to include your Webhook URL, these should be inside the speech marks. Please add your full URL from the webhook.
