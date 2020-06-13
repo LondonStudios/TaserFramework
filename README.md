@@ -7,6 +7,8 @@ TaserFramework is a C# FiveM resource providing a host of functions to enhance t
 
 Latest version: 1.1 - 08/06/2020
 
+If you like our work and want to support us, buy us a coffee [here](https://www.buymeacoffee.com/londonstudios)
+
 Join our Discord [here](https://discord.gg/AtPt9ND).
 Member/Usage Documentation [here](https://bit.ly/2zMsKHY).
 
