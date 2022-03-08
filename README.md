@@ -1,9 +1,25 @@
+![London Studios](https://i.ibb.co/1mwSS1q/Untitled-design.png)
 
+# London Studios - Update
+Since forming London Studios in April 2020 we've created a number of **high quality** and **premium** resources for the FiveM project, focusing on the emergency services and aiming to bring your server to the next level.
+
+Although we made a number of free resources such as this one in the first year, we've now switched to creating paid content, keeping them constantly updated and working along with providing the best possible support to our customers.
+
+Our **most popular** resources now include *Smart Fires, Police Grappler* and *Smart Hose*.
+
+With **thousands** of **happy customers** we are confident you'll love our resources and our active support team are on hand to help if you have any questions!
+
+# Our store: https://store.londonstudios.net/github
+# Our discord: https://discord.gg/nC2krpN
 
 ![enter image description here](https://i.imgur.com/IIyr58s.jpg)
 
 # Taser Framework - London Studios
 TaserFramework is a C# FiveM resource providing a host of functions to enhance the reality of the Taser X2 device. Features include custom external sounds, taser interface (CID) notifications, taser cartridge limit, taser reload functionality, taser safety mode, taser arc mode, taser cartridge reactivation, barb removal and distance based "ripping out". This plugin also replicates the Axon Audit trail through Discord integration, logging every usage of the taser.
+
+# Important
+
+We are working on a Taser Framework V2, for more information, join our Discord server!
 
 Latest version: 1.1 - 08/06/2020
 
